@@ -65,6 +65,7 @@ class Login extends React.Component{
     <CssBaseline />
      <Container maxWidth="xs">
   <form className="formAlign"  noValidate autoComplete="off">
+    <div>{'Log in'}</div>
   <div className="text-center"><PersonPinIcon color="primary" fontSize="large"/></div>
    <div className="MuiFormControl-marginNormal MuiFormControl-fullWidth">
    <TextField id="outlined-basic-email" error={this.state.mailErr} value={this.props.username} helperText={`${(this.state.mailErr === true)?"please enter valid email address":""}`} label="Email" name="email" onChange={(e) =>this.props.setUserName(e.target.value)}  variant="outlined" fullWidth/>
