@@ -1,0 +1,42 @@
+[
+  {
+	"customerId": "1234",
+	"customerName": "preetha",
+	"productName": "saree",
+	"quantity": 1,
+	"size": "l",
+	"venderName": "wholesaledealerChennai",
+	"status": "Delivered",
+	"orderPlaced": "08-08-2020 23:42:36"
+},
+  {
+  "customerId": "2345",
+  "customerName": "priya",
+  "productName": "saree",
+  "quantity": 1,
+  "size": "l",
+  "venderName": "sareeCollections",
+  "status": "Delivered",
+  "orderPlaced": "08-11-2020 23:42:36"
+  },
+  {
+  "customerId": "5243",
+  "customerName": "godson",
+  "productName": "tshirt",
+  "quantity": 1,
+  "size": "sm",
+  "venderName": "wholesaledealerChennai",
+  "status": "Delivered",
+  "orderPlaced": "08-10-2020 23:42:36"
+  },
+  {
+  "customerId": "7896",
+  "customerName": "prison",
+  "productName": "tshirt",
+  "quantity": 1,
+  "size": "m",
+  "venderName": "wholesaledealerChennai",
+  "status": "Delivered",
+  "orderPlaced": "08-05-2020 23:42:36"
+  }
+]
